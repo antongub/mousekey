@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace mousekey
 {
-    public partial class HomeForm : Form
+    public partial class fmMain : Form
     {
-        public HomeForm()
+        public fmMain()
         {
             InitializeComponent();
         }
